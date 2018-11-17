@@ -16,6 +16,7 @@
 	"setauto.gpu_level"		"3"
 	"setauto.mat_antialias"		"8"
 	"setauto.mat_aaquality"		"0"
+	"setauto.mat_forceaniso"		"1"
 	"setauto.cpu_level"		"2"
 	"setting.videoconfig_version"		"1"
 	"setting.mem_level"		"2"
